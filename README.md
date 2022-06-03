@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://raw.githubusercontent.com/SeanLuis/github-stats-transparent/output/generated/languages.svg)
 
 <!--
 **SeanLuis/SeanLuis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
