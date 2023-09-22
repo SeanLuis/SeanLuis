@@ -2,12 +2,8 @@
 
 #### Only public contributions and repositories.
 
-<a href="https://github-readme-stats.vercel.app/api?username=SeanLuis&count_private=true&show_icons=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?count_private=true&username=SeanLuis&show_icons=true" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanLuis&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanLuis&layout=compact" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanLuis&hide=html)
+![mattn's github stats](https://github-readme-stats.vercel.app/api?username=SeanLuis&show_icons=true&count_private=true&line_height=40)
 
 <!--
 **SeanLuis/SeanLuis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
