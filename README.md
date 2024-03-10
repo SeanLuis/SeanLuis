@@ -21,6 +21,19 @@ I'm a passionate software developer committed to creating efficient and elegant 
 ![Doctrine](https://img.shields.io/badge/-Doctrine-ffa500?style=flat-square&logo=doctrine&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
+![Pinia](https://img.shields.io/badge/-Pinia-42b883?style=flat-square&logo=pinia&logoColor=white)
+![Vue Router](https://img.shields.io/badge/-Vue%20Router-42b883?style=flat-square&logo=vue.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/-Hardhat-FFDB1C?style=flat-square&logo=hardhat&logoColor=black)
+![Hedera](https://img.shields.io/badge/-Hedera-000000?style=flat-square&logo=hedera&logoColor=white)
+![Polygon](https://img.shields.io/badge/-Polygon-8247E5?style=flat-square&logo=polygon&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
 
 ## GitHub Stats
 
